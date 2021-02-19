@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Woodchuck can chuck wood
 Use the left arrow to go back!
